@@ -34,7 +34,7 @@ GitHub has a functionality that allows you to submit a PR directly from our [rep
 
 This is helpful to fix typing errors or add small things. If you are working on a larger update that includes pictures and editing files then it is not the best way to work. In that case, you will be better off creating a fork. See below for more thorough instructions on this approach.
 
-## Options 2: Creating a PR through a fork
+## Option 2: Creating a PR through a fork
 
 There are a lot of great tutorials available online on [how to fork a repository (GitHub)](https://help.github.com/articles/fork-a-repo/), but we have also created a guide with instructions.
 
